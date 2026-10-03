@@ -1,0 +1,29 @@
+{
+  "transactions": [
+    {
+      "id": "41693d09-00e9-4805-9050-18c09d83d397",
+      "description": "saymon",
+      "amount": 344.06,
+      "category": "Income",
+      "date": "2026-10-03",
+      "type": "income",
+      "createdAt": "2026-10-03T10:54:59.763Z"
+    },
+    {
+      "id": "1ab7aa06-e0d7-4587-b701-a8d926dd1431",
+      "description": "Groceries",
+      "amount": 74.99,
+      "category": "Food",
+      "date": "2026-10-03",
+      "type": "expense",
+      "createdAt": "2026-10-03T10:43:12.450Z"
+    }
+  ],
+  "budgets": [
+    {
+      "category": "Food",
+      "month": "2026-10",
+      "amount": 0.69
+    }
+  ]
+}
